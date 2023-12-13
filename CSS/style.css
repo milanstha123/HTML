@@ -1,0 +1,65 @@
+/* index.html */
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration: solid;
+    font: italic;
+}
+li{
+    color: aqua;
+    text-decoration: underline;
+}
+p{
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+img{
+    height: 100px;
+    width : 100px;
+}
+
+
+/* about.html */
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+header   li{
+display: inline;
+
+/* descendent Selector */
+}
+#main{
+background-color: aquamarine;
+display: inline;
+text-decoration: underline;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.blu{
+text-decoration-color: blue;
+}
+.box{
+border: 10px solid;
+margin: 16px;
+padding-left: 16px;
+}
+
+/* demo.html */
+table{
+    border : 1px solid blue;
+    }
+tr{
+    border : 1px solid blue;
+
+}
+td,th{
+
+    border : 1px solid blue;
+    
+}
+/* th{
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+} */

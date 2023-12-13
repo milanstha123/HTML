@@ -1,0 +1,10 @@
+//one time setup 
+git init
+git remote add origin https://github.com/milanstha123/HTML
+  3.1 git remote -v (to  check)
+
+  // regular codes
+  1.git status
+  2.git add . //to add project file
+  3.git commit -m "html-css"
+
